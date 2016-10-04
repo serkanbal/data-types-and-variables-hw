@@ -20,6 +20,7 @@ creator:
   - _use `git clone <url>` to do the cloning_
 - Open the IntelliJ project found in the `starter-code` folder
   - _select the `starter-code` folder to open, not one if its subfolders_
+  - _in general, you want to select the folder that contains the `.iml` file and the `src` directory as the one to open - in this case, `starter-code` meets those criteria_
 - Complete the code in `Main.java` based on the instructions in the comments
 
 #### Starter code

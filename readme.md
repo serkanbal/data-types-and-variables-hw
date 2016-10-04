@@ -41,3 +41,9 @@ Once you complete the code in `Main.java`, do the following:
 - Submit a pull request on GitHub from your fork back to the original repo
   - _please put your name in the pull request title_
   - _from the original repo, click on the "Pull Requests" tab and double check that your request appears in the list_
+
+---
+
+## Licensing
+1. All content is licensed under a CC­BY­NC­SA 4.0 license.
+2. All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact [legal@ga.co](mailto:legal@ga.co).
